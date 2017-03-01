@@ -1,0 +1,15 @@
+{
+		"author": "MarChen",
+		"language" : "zh-hans",
+    "plugins": [
+			"expandable-chapters-small",
+			"tbfed-pagefooter"
+		],
+		"pluginsConfig": {
+	    "tbfed-pagefooter": {
+	        "copyright":" ",
+	        "modify_label": " ",
+	        "modify_format": "YYYY-MM-DD HH:mm:ss"
+	    }
+		}
+}
