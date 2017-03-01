@@ -37,8 +37,7 @@
         * [5.1 类](5.1 类/README.md)
         * [5.2 原型](5.2 原型/README.md)
 * [客户端JavaScript](README-A.md)
-    * [6 DOM](6 DOM.md)
-    * [7 BOM](7 BOM.md)
-    * [8 事件](8 sj.md)
-    * [9 AJAX](9 AJAX.md)
-
+    * [11 DOM](6 DOM.md)
+    * [12 BOM](7 BOM.md)
+    * [13 事件](8 sj.md)
+    * [14 AJAX](9 AJAX.md)
