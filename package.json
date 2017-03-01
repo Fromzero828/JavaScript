@@ -1,21 +1,23 @@
 {
-  "name": "ch",
+  "name": "js",
   "version": "1.0.0",
-  "description": "",
+  "description": "笔记",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fromzero828/successa.git"
+    "url": "git+https://github.com/Fromzero828/JavaScript.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fromzero828/successa/issues"
+    "url": "https://github.com/Fromzero828/JavaScript/issues"
   },
-  "homepage": "https://github.com/Fromzero828/successa#readme"
+  "homepage": "https://github.com/Fromzero828/JavaScript#readme",
+  "dependencies": {
+    "gitbook-plugin-expandable-chapters-small": "^0.1.7",
+    "gitbook-plugin-tbfed-pagefooter": "0.0.1"
+  }
 }
